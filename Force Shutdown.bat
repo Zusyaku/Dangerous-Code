@@ -1,0 +1,1 @@
+@echo off msg * I don't like you shutdown -c "Error! Komputer kamu terpaksa harus Shutdown!" -s
