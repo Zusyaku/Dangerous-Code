@@ -1,3 +1,3 @@
 # Dangerous-Code
 
-## Dont To Run This Code Can Make Your PC Broken ""
+## Dont To Run And Click This Code Can Make Destroy Your PC
