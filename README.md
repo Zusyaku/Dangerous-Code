@@ -1,3 +1,2 @@
-# Dangerous-Code
-
-## Dont To Run And Click This Code Can Make Destroy Your PC
+# HandyBatchCode-MalicousAndNonMalicous
+Handy batch scripts (Malicous and not malicous)
